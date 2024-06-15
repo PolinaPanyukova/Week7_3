@@ -700,6 +700,7 @@ button {
     margin-top: 80px;
     padding-bottom: 158px;
     justify-content: center;
+    flex-wrap: wrap;
   }
   
   .plans__item {
